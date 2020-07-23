@@ -1,0 +1,3 @@
+{
+	"message": "You are running version {{pkg.version}}/{{pkg.release}} of the Habitat Node.js sample app."
+}
