@@ -1,6 +1,8 @@
 # Habitat Sample Node App
 
-Welcome to the Habitat Sample Node App! Bloop!
+Welcome to the Habitat Sample Node App! Bloop! 
+
+Contact: Scott Gallagher
 
 ### Follow the demo instructions
 
